@@ -1,4 +1,4 @@
-You can see the site deployed [here](https://cocky-kalam-0db3a2.netlify.com/)
+You can see the site deployed [here](https://cocky-kalam-0db3a2.netlify.com/).
 
 # Budget-App-DOM-JS
   
